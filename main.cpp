@@ -1,5 +1,9 @@
 #include <iostream>
+void test()
+{
+ std:: cout<<"Hello Repo!";
+}
  main()
 {
-  std:: cout<<"Hello Repo!";
+  test();
 }
